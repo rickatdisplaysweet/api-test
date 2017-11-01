@@ -14,5 +14,10 @@
         "name": null,
         "active": "false"
     }
-  ]
+  ],
+  "auth": {
+    "user": "b2a67d94-5304-4770-83e8-5859308cf59d",
+    "expiry": "10/30/2017 16:32:24",
+    "hash": "sEc/d2DyDAU9xvmPGRzLC+c69bNg9rak9lvnZe5Oneg="
+  }
 }

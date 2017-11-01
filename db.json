@@ -2,7 +2,5 @@
   "projects": [
     { "id": "62de24f4-893d-417f-bdb8-743227a7f2ab", "company": "46ae8eae-ceb5-4231-a3b1-bf56a2d70113", "createdby": "00000000-0000-0000-0000-000000000000", "name": "Project1", "active": "false" }, { "id": "610d4a51-cb58-4dc0-84fd-e30e81db9446", "company": "8d466291-e5df-4cce-8caa-126a882fe5f3",  "createdby": "00000000-0000-0000-0000-000000000000", "name": null, "active": "false" }
   ],
-  "auth": [
-    { "user": "b2a67d94-5304-4770-83e8-5859308cf59d", "expiry": "10/30/2017 16:32:24", "hash": "sEc/d2DyDAU9xvmPGRzLC+c69bNg9rak9lvnZe5Oneg=" }
-  ]
+  "auth": { "user": "b2a67d94-5304-4770-83e8-5859308cf59d", "expiry": "10/30/2017 16:32:24", "hash": "sEc/d2DyDAU9xvmPGRzLC+c69bNg9rak9lvnZe5Oneg=" }
 }
